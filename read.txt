@@ -2,3 +2,4 @@ hello,world
 nihao
 dajiahao
 你们好
+haohao
